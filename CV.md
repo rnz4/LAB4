@@ -1,6 +1,6 @@
 # LAB4
  
-curriculum vitae
+curriculum vitae 
 
 
 Nombre: Renzo 
